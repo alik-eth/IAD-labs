@@ -9,6 +9,7 @@
 | № | Тема | Датасет | Ноутбук | Звіт |
 |---|------|---------|---------|------|
 | 1 | Класифікація засобами scikit-learn | [Ethereum Fraud Detection](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset) | [solution.ipynb](lab1/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/IAD-labs/blob/main/lab1/solution.ipynb) | [PDF](lab1/PZ1_ClassificationSklearn_Vovkotrub_FB-61mn.pdf) |
+| 2 | Зниження розмірності, кластеризація, класифікація текстів | [Ethereum Fraud Detection](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset), [CVE & CWE](https://www.kaggle.com/datasets/stanislavvinokur/cve-and-cwe-dataset-1999-2025) | [solution.ipynb](lab2/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/IAD-labs/blob/main/lab2/solution.ipynb) | — |
 
 ## Запуск
 
@@ -22,7 +23,7 @@
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-jupyter notebook lab1/solution.ipynb
+jupyter notebook lab1/solution.ipynb   # або lab2/…
 ```
 
 Перша клітинка ноутбука створює теки `data/` і `assets/` поруч із ним і
