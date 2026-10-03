@@ -1,6 +1,6 @@
 # Лабораторна робота № 1 — класифікація засобами scikit-learn
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/IAD-labs/blob/main/lab1/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/IAD-labs/blob/main/lab1/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок із результатами виконання
 - [PZ1_ClassificationSklearn_Vovkotrub_FB-61mn.pdf](PZ1_ClassificationSklearn_Vovkotrub_FB-61mn.pdf) — звіт

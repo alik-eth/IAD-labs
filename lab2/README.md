@@ -1,6 +1,6 @@
 # Лабораторна робота № 2 — зниження розмірності, кластеризація та класифікація текстів
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/IAD-labs/blob/main/lab2/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/IAD-labs/blob/main/lab2/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок із результатами виконання й висновками
 

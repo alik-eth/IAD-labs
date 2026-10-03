@@ -1,6 +1,6 @@
 # Лабораторна робота № 3 — нейронні мережі
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/IAD-labs/blob/main/lab3/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/IAD-labs/blob/main/lab3/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок (PyTorch) із результатами виконання, learning curves і висновками
 
